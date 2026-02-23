@@ -9,3 +9,5 @@
 - **swap nodes in pairs** ([solution](swap-nodes-in-pairs.cpp)) - c++ - Medium - 2026-02-23T09:30:01.858Z
 
 - **check if a string contains all binary codes of size k** ([solution](check-if-a-string-contains-all-binary-codes-of-size-k.cpp)) - c++ - Medium - 2026-02-23T09:33:30.208Z
+
+- **Seriously?** ([solution](Seriously.cpp)) - c++ - Medium - 2026-02-23T09:35:42.003Z
