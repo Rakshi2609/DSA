@@ -11,3 +11,5 @@
 - **check if a string contains all binary codes of size k** ([solution](check-if-a-string-contains-all-binary-codes-of-size-k.cpp)) - c++ - Medium - 2026-02-23T09:33:30.208Z
 
 - **Seriously?** ([solution](Seriously.cpp)) - c++ - Medium - 2026-02-23T09:35:42.003Z
+
+- **two sum** ([solution](two-sum.cpp)) - c++ - Easy - 2026-02-24T07:44:08.474Z
